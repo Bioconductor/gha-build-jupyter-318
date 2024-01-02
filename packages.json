@@ -6042,7 +6042,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "COHCAP": [],
     "cola": [
         "BiocGenerics",
         "ComplexHeatmap",
