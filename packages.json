@@ -9467,7 +9467,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "AnnotationFilter",
