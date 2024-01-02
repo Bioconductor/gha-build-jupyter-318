@@ -51,7 +51,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "adverSCarial": [],
     "AffiXcan": [
         "MultiAssayExperiment",
         "SummarizedExperiment"
