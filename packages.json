@@ -8812,7 +8812,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "rWikiPathways",
         "treeio"
     ],
     "fastLiquidAssociation": [
@@ -16909,7 +16908,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "rWikiPathways",
         "rtracklayer"
     ],
     "normalize450K": [
@@ -21565,7 +21563,6 @@
     "RVS": [
         "snpStats"
     ],
-    "rWikiPathways": [],
     "S4Arrays": [
         "IRanges",
         "S4Vectors"
@@ -25580,7 +25577,6 @@
         "fgsea",
         "ggtree",
         "graph",
-        "rWikiPathways",
         "tkWidgets",
         "treeio"
     ],
