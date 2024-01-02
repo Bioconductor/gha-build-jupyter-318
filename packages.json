@@ -13649,10 +13649,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "omada": [],
     "OmaDB": [
         "AnnotationDbi",
