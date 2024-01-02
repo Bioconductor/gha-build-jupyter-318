@@ -1992,7 +1992,6 @@
     "biodbHmdb": [],
     "biodbLipidmaps": [],
     "biodbMirbase": [],
-    "biodbNci": [],
     "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
