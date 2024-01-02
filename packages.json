@@ -1993,7 +1993,6 @@
     "biodbLipidmaps": [],
     "biodbMirbase": [],
     "biodbNci": [],
-    "biodbUniprot": [],
     "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
