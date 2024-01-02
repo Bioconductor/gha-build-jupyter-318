@@ -22228,7 +22228,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "proteinProfiles": [],
     "ProteoDisco": [
         "AnnotationDbi",
         "BSgenome",
