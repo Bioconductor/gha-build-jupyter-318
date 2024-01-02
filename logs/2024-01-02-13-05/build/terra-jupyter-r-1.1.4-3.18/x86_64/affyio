@@ -134,7 +134,7 @@ packaged installation of ‘affyio’ as ‘affyio_1.72.0_R_x86_64-pc-linux-gnu.
 * DONE (affyio)
 
 The downloaded source packages are in
-	‘/tmp/RtmpvgGCHk/downloaded_packages’
+	‘/tmp/RtmpqlR2wj/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -146,6 +146,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m9.125s
-user	0m6.747s
-sys	0m3.018s
+real	0m9.325s
+user	0m7.214s
+sys	0m2.865s
