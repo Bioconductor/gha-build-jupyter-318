@@ -19031,7 +19031,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "stepNorm": [],
     "stJoincount": [
         "DelayedArray",
         "GenomeInfoDb",
