@@ -2322,7 +2322,6 @@
         "beachmat",
         "biomformat",
         "bluster",
-        "dearseq",
         "decontam",
         "edgeR",
         "genefilter",
@@ -7736,7 +7735,6 @@
         "flowDensity",
         "flowViz"
     ],
-    "dearseq": [],
     "debCAM": [
         "Biobase",
         "BiocGenerics",
