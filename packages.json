@@ -13907,7 +13907,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "hierGWAS": [],
     "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
