@@ -6802,7 +6802,6 @@
     ],
     "synapter": [],
     "synergyfinder": [],
-    "SynExtend": [],
     "syntenet": [
         "GenomicAlignments",
         "rtracklayer"
