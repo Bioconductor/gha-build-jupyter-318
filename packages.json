@@ -9029,7 +9029,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "Biobase",
