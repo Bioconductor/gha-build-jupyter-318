@@ -1869,7 +1869,6 @@
         "graph",
         "graphite"
     ],
-    "BiocBook": [],
     "BiocCheck": [
         "RBGL",
         "biocViews",
