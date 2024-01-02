@@ -17839,7 +17839,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "Path2PPI": [],
     "PathoStat": [
         "Biobase",
         "Biostrings",
