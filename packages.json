@@ -1612,7 +1612,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "AnnotationDbi",
         "Biostrings",
