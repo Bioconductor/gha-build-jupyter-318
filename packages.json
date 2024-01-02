@@ -3773,7 +3773,6 @@
         "XVector",
         "fgsea"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomeInfoDb",
