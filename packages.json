@@ -8063,7 +8063,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "ggtreeDendro": [],
     "girafe": [
         "Biostrings",
         "DelayedArray",
