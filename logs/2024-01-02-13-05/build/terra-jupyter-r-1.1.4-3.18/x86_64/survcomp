@@ -554,7 +554,7 @@ packaged installation of ‘survcomp’ as ‘survcomp_1.52.0_R_x86_64-pc-linux-
 * DONE (survcomp)
 
 The downloaded source packages are in
-	‘/tmp/RtmpYLRZQ6/downloaded_packages’
+	‘/tmp/RtmpXFitt7/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -566,6 +566,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	1m32.948s
-user	1m23.931s
-sys	0m35.745s
+real	1m36.415s
+user	1m26.333s
+sys	0m35.392s
