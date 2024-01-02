@@ -10262,8 +10262,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "cqn",
-        "topconfects"
+        "cqn"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -25530,7 +25529,6 @@
         "annotate",
         "genefilter"
     ],
-    "topconfects": [],
     "topdownr": [
         "Biobase",
         "Biostrings",
@@ -26787,8 +26785,7 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "sparseMatrixStats",
-        "topconfects"
+        "sparseMatrixStats"
     ],
     "wiggleplotr": [
         "Biobase",
