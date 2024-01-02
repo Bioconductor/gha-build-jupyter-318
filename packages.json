@@ -2229,7 +2229,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -3040,7 +3039,6 @@
         "ShortRead",
         "SummarizedExperiment"
     ],
-    "fastseg": [],
     "fCCAC": [
         "BSgenome",
         "GenomicAlignments",
@@ -4774,7 +4772,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -4863,7 +4860,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -4871,7 +4867,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "rtracklayer"
     ],
     "methylPipe": [
