@@ -1123,8 +1123,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "cfdnakit": [
         "QDNAseq",
@@ -2704,8 +2703,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "fcScan": [
         "AnnotationDbi",
@@ -2986,8 +2984,7 @@
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "GenomicAlignments": [
         "Rsamtools"
@@ -3057,8 +3054,7 @@
         "biomaRt",
         "genomation",
         "plyranges",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "GenomicScores": [
         "AnnotationDbi",
@@ -5736,8 +5732,7 @@
         "Rsamtools",
         "biomaRt",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "rCGH": [
         "AnnotationDbi",
@@ -6687,8 +6682,7 @@
         "clusterProfiler",
         "enrichplot",
         "rtracklayer",
-        "seqArchR",
-        "seqPattern"
+        "seqArchR"
     ],
     "seqbias": [],
     "seqCAT": [
@@ -6707,7 +6701,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
         "Rsamtools",
