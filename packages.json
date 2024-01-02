@@ -514,9 +514,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "MLInterfaces",
@@ -2388,7 +2386,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -2541,7 +2538,6 @@
         "variancePartition",
         "zenith"
     ],
-    "DRIMSeq": [],
     "DropletUtils": [
         "SingleCellExperiment",
         "SummarizedExperiment",
