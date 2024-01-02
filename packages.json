@@ -4192,7 +4192,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "ImmuneSpaceR": [],
     "iNETgrate": [
         "AnnotationDbi",
         "DOSE",
