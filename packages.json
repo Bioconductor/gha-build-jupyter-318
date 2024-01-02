@@ -6148,7 +6148,6 @@
     "switchde": [
         "SingleCellExperiment"
     ],
-    "synapter": [],
     "synergyfinder": [],
     "syntenet": [
         "GenomicAlignments",
