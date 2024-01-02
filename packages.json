@@ -1392,7 +1392,6 @@
         "methylumi",
         "minfi",
         "multtest",
-        "parody",
         "preprocessCore",
         "rhdf5",
         "rhdf5filters",
@@ -22713,7 +22712,6 @@
     "parglms": [
         "BiocGenerics"
     ],
-    "parody": [],
     "partCNV": [
         "AnnotationDbi",
         "AnnotationHub",
