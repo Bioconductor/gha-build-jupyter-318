@@ -453,7 +453,6 @@
         "rtracklayer"
     ],
     "AlphaBeta": [],
-    "AlpsNMR": [],
     "altcdfenvs": [
         "Biostrings",
         "GenomeInfoDb",
