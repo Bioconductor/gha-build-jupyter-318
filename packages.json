@@ -8102,7 +8102,6 @@
     ],
     "deltaGseg": [],
     "DeMAND": [],
-    "demuxmix": [],
     "demuxSNP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -8130,7 +8129,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "demuxmix",
         "ensembldb",
         "rtracklayer",
         "zlibbioc"
