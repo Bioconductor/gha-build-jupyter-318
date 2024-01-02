@@ -104,7 +104,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -13560,7 +13559,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GLAD": [],
     "GladiaTOX": [],
     "Glimma": [
         "Biobase",
@@ -16326,7 +16324,6 @@
         "BiocGenerics",
         "Biostrings",
         "DelayedArray",
-        "GLAD",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -17297,9 +17294,7 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "MANOR": [
-        "GLAD"
-    ],
+    "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [
         "AnnotationDbi",
@@ -29455,9 +29450,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "seqCNA": [
-        "GLAD"
-    ],
+    "seqCNA": [],
     "seqcombo": [],
     "SeqGate": [
         "Biobase",
@@ -30587,7 +30580,6 @@
         "Biobase",
         "BiocGenerics",
         "Biostrings",
-        "GLAD",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
