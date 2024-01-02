@@ -1090,7 +1090,6 @@
     "BiFET": [
         "GenomicRanges"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "AnnotationDbi",
         "Biostrings",
