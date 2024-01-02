@@ -7972,7 +7972,6 @@
         "zlibbioc"
     ],
     "deltaGseg": [],
-    "DeMAND": [],
     "demuxSNP": [
         "AnnotationDbi",
         "AnnotationFilter",
