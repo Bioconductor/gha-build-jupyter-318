@@ -61,7 +61,6 @@
         "BiocStyle"
     ],
     "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocGenerics",
