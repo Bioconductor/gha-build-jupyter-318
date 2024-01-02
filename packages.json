@@ -1193,7 +1193,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BAGS": [],
     "ballgown": [
         "AnnotationDbi",
         "BiocIO",
