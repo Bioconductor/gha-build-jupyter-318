@@ -5473,7 +5473,6 @@
         "flowWorkspace",
         "ggcyto"
     ],
-    "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
         "flowClust"
