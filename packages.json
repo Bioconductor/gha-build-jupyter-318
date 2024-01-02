@@ -4883,7 +4883,6 @@
         "genefilter",
         "topGO"
     ],
-    "PCAtools": [],
     "PDATK": [
         "AnnotationDbi",
         "CoreGx",
@@ -5421,9 +5420,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "regionalpcs": [
-        "PCAtools"
-    ],
+    "regionalpcs": [],
     "RegionalST": [
         "BayesSpace",
         "SingleCellExperiment",
