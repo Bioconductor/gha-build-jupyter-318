@@ -185,7 +185,7 @@ packaged installation of ‘HilbertCurve’ as ‘HilbertCurve_1.32.0_R_x86_64-p
 * DONE (HilbertCurve)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpbqmyoc/downloaded_packages’
+	‘/tmp/Rtmp1VaYB9/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -197,6 +197,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m48.119s
-user	0m44.009s
-sys	0m15.072s
+real	0m48.891s
+user	0m43.846s
+sys	0m15.565s
