@@ -3649,8 +3649,7 @@
     ],
     "cyanoFilter": [
         "flowClust",
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "cydar": [
         "DelayedArray",
@@ -3708,7 +3707,6 @@
         "DelayedArray",
         "SparseArray",
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "openCyto"
@@ -3830,8 +3828,7 @@
         "mnem"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
     "debCAM": [
         "DelayedArray",
@@ -5464,20 +5461,14 @@
         "scuttle"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "flowViz"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowViz"
-    ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowDensity": [],
+    "flowFP": [],
     "flowGate": [
         "DelayedArray",
         "SparseArray",
@@ -5495,19 +5486,15 @@
     "flowStats": [
         "DelayedArray",
         "SparseArray",
-        "flowViz",
         "flowWorkspace"
     ],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "DelayedArray",
         "SparseArray",
         "flowStats",
-        "flowViz",
         "flowWorkspace"
     ],
     "flowWorkspace": [
@@ -5649,8 +5636,7 @@
         "sva"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "gatom": [
         "AnnotationDbi",
@@ -10212,7 +10198,6 @@
         "DelayedArray",
         "SparseArray",
         "flowClust",
-        "flowViz",
         "flowWorkspace"
     ],
     "openPrimeR": [
