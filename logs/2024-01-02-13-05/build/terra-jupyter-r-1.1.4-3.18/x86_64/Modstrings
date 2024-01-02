@@ -28,7 +28,7 @@ packaged installation of ‘Modstrings’ as ‘Modstrings_1.18.0_R_x86_64-pc-li
 * DONE (Modstrings)
 
 The downloaded source packages are in
-	‘/tmp/RtmpEoy74f/downloaded_packages’
+	‘/tmp/RtmprhaaFf/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -40,6 +40,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m14.736s
-user	0m12.740s
-sys	0m2.496s
+real	0m15.282s
+user	0m12.929s
+sys	0m2.614s
