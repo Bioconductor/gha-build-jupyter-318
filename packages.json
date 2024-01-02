@@ -14672,7 +14672,6 @@
         "rtracklayer"
     ],
     "plotGrouper": [],
-    "PLPE": [],
     "plyinteractions": [
         "BiocIO",
         "Biostrings",
