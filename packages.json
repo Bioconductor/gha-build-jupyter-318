@@ -2717,7 +2717,6 @@
         "TrajectoryUtils"
     ],
     "FeatSeekR": [],
-    "FELLA": [],
     "fenr": [
         "AnnotationDbi",
         "biomaRt"
