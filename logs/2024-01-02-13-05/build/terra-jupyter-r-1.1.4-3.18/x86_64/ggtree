@@ -275,7 +275,7 @@ packaged installation of ‘emojifont’ as ‘emojifont_0.5.5_R_x86_64-pc-linux
 * DONE (emojifont)
 
 The downloaded source packages are in
-	‘/tmp/RtmpJZgMAg/downloaded_packages’
+	‘/tmp/Rtmp1YZE6g/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -287,9 +287,9 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	1m39.038s
-user	1m29.819s
-sys	0m21.162s
+real	1m40.319s
+user	1m30.525s
+sys	0m21.429s
 * installing *source* package ‘emojifont’ ...
 ** package ‘emojifont’ successfully unpacked and MD5 sums checked
 ** using staged installation
