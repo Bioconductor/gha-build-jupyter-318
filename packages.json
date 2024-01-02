@@ -618,7 +618,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "beachmat.hdf5": [],
     "beadarray": [
         "AnnotationDbi"
     ],
