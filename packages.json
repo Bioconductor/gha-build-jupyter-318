@@ -5174,7 +5174,6 @@
         "baySeq",
         "edgeR"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase",
         "BiocGenerics"
