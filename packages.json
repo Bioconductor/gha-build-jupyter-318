@@ -7425,8 +7425,7 @@
         "BiocGenerics",
         "DynDoc",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -7823,7 +7822,6 @@
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "DART": [],
@@ -17782,8 +17780,7 @@
         "Biobase",
         "BiocGenerics",
         "DynDoc",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -19748,7 +19745,6 @@
         "SummarizedExperiment",
         "XVector",
         "tkWidgets",
-        "widgetTools",
         "zlibbioc"
     ],
     "multiscan": [
@@ -20837,8 +20833,7 @@
         "DynDoc",
         "OLIN",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase",
@@ -23036,7 +23031,6 @@
         "tkWidgets",
         "treeio",
         "vsn",
-        "widgetTools",
         "zlibbioc"
     ],
     "proteinProfiles": [],
@@ -31085,7 +31079,6 @@
         "rWikiPathways",
         "tkWidgets",
         "treeio",
-        "widgetTools",
         "zlibbioc"
     ],
     "TIN": [
@@ -31151,8 +31144,7 @@
         "zlibbioc"
     ],
     "tkWidgets": [
-        "DynDoc",
-        "widgetTools"
+        "DynDoc"
     ],
     "tLOH": [
         "AnnotationDbi",
@@ -32814,7 +32806,6 @@
         "topconfects",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocGenerics",
