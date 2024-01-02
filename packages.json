@@ -5466,7 +5466,6 @@
     ],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
         "SparseArray",
