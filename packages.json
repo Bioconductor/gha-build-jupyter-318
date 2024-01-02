@@ -10594,7 +10594,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "FitHiC": [],
     "flagme": [
         "AnnotationFilter",
         "Biobase",
