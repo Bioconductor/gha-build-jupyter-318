@@ -5753,7 +5753,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "ngsReports": [],
     "nipalsMCIA": [
         "MultiAssayExperiment",
         "SummarizedExperiment"
