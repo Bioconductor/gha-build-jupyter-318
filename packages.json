@@ -11777,7 +11777,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "magrene": [],
     "MAI": [
         "DelayedArray",
         "GenomeInfoDb",
