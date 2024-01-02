@@ -3132,7 +3132,6 @@
     "flowGate": [],
     "flowPloidy": [],
     "FlowSOM": [],
-    "flowVS": [],
     "FRASER": [
         "AnnotationDbi",
         "BSgenome",
