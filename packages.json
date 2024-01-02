@@ -5083,7 +5083,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "procoil": [],
     "proDA": [],
     "profileplyr": [
         "AnnotationDbi",
