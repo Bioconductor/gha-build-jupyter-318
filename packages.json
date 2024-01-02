@@ -2174,17 +2174,14 @@
         "SummarizedExperiment"
     ],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "CytoPipelineGUI": [
         "CytoPipeline",
-        "PeacoQC",
-        "ggcyto"
+        "PeacoQC"
     ],
     "cytoviewer": [
         "SingleCellExperiment",
@@ -3230,9 +3227,7 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowGate": [
-        "ggcyto"
-    ],
+    "flowGate": [],
     "flowPloidy": [],
     "FlowSOM": [],
     "flowVS": [],
@@ -3619,7 +3614,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggcyto": [],
     "ggkegg": [
         "AnnotationDbi"
     ],
