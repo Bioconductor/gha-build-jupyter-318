@@ -4389,7 +4389,6 @@
         "MSstats",
         "MSstatsTMT"
     ],
-    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
