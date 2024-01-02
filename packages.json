@@ -11604,7 +11604,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "NormqPCR": [],
     "normr": [
         "Biostrings",
         "DelayedArray",
