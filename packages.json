@@ -9616,7 +9616,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationDbi",
         "AnnotationFilter",
