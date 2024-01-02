@@ -24290,7 +24290,6 @@
         "XVector",
         "miRNAtap"
     ],
-    "spikeLI": [],
     "spiky": [
         "BSgenome",
         "Biobase",
