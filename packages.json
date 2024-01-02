@@ -7804,7 +7804,6 @@
         "XVector",
         "flowWorkspace"
     ],
-    "immunoClust": [],
     "iNETgrate": [
         "AnnotationDbi",
         "Biostrings",
