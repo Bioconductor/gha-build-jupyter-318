@@ -10801,7 +10801,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "genArise": [],
     "geneAttribution": [
         "AnnotationDbi",
         "Biobase",
