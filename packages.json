@@ -2587,7 +2587,6 @@
     ],
     "CNORfeeder": [],
     "CNORfuzzy": [],
-    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "Biostrings",
