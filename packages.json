@@ -2487,7 +2487,6 @@
         "AnnotationDbi",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Modstrings",
         "Rsamtools",
         "biomaRt",
         "rtracklayer",
@@ -4530,7 +4529,6 @@
     "MODA": [
         "AnnotationDbi"
     ],
-    "Modstrings": [],
     "mogsa": [
         "AnnotationDbi",
         "GSEABase",
@@ -6143,7 +6141,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "Rsamtools",
         "VariantAnnotation",
         "biomaRt",
@@ -6157,7 +6154,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "VariantAnnotation",
@@ -6172,7 +6168,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "VariantAnnotation",
@@ -6187,7 +6182,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "VariantAnnotation",
@@ -7619,17 +7613,13 @@
         "sva"
     ],
     "triplex": [],
-    "tRNA": [
-        "Modstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Modstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "Rsamtools",
         "rtracklayer",
         "tRNA"
