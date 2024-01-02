@@ -9775,7 +9775,6 @@
         "enrichplot"
     ],
     "metapone": [],
-    "metaSeq": [],
     "MetCirc": [
         "MetaboCoreUtils",
         "Spectra"
