@@ -11071,13 +11071,11 @@
     ],
     "MSstatsQC": [
         "MSnbase",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsShiny": [
@@ -13212,7 +13210,6 @@
         "XVector",
         "biomaRt"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "GenomeInfoDb",
