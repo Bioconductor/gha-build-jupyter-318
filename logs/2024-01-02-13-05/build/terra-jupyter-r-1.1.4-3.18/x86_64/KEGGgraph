@@ -90,7 +90,7 @@ packaged installation of ‘SPIA’ as ‘SPIA_2.54.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (SPIA)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpvca0Yz/downloaded_packages’
+	‘/tmp/RtmpzudVpu/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -102,6 +102,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	3m57.996s
-user	3m50.877s
-sys	0m9.978s
+real	3m55.261s
+user	3m50.540s
+sys	0m10.068s
