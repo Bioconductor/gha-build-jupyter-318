@@ -6115,7 +6115,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MetCirc": [],
     "methimpute": [
         "GenomicRanges"
     ],
