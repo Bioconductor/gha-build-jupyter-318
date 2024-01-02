@@ -13907,7 +13907,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
         "GenomeInfoDb",
