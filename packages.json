@@ -2618,12 +2618,9 @@
         "snpStats"
     ],
     "Cardinal": [
-        "CardinalIO",
-        "matter"
+        "CardinalIO"
     ],
-    "CardinalIO": [
-        "matter"
-    ],
+    "CardinalIO": [],
     "casper": [
         "AnnotationDbi",
         "BiocIO",
@@ -11083,7 +11080,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "matter": [],
     "MBASED": [
         "DelayedArray",
         "GenomeInfoDb",
