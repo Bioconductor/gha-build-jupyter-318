@@ -11302,7 +11302,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "RandomWalkRestartMH",
         "XVector"
     ],
     "netresponse": [],
@@ -13248,7 +13247,6 @@
         "XVector",
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
         "AnnotationDbi",
