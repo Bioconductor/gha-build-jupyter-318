@@ -6779,7 +6779,6 @@
         "mixOmics"
     ],
     "DepInfeR": [],
-    "DEqMS": [],
     "derfinder": [
         "AnnotationDbi",
         "BSgenome",
