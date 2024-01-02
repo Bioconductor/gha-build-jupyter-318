@@ -2988,7 +2988,6 @@
     "GenomicAlignments": [
         "Rsamtools"
     ],
-    "GenomicDistributions": [],
     "GenomicFeatures": [
         "AnnotationDbi",
         "GenomicAlignments",
