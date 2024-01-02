@@ -1209,7 +1209,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "aroma.light": [],
     "ArrayExpress": [
         "Biobase",
         "BiocGenerics",
@@ -4405,7 +4404,6 @@
         "Rsamtools",
         "S4Vectors",
         "XVector",
-        "aroma.light",
         "marray",
         "zlibbioc"
     ],
@@ -6128,7 +6126,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "ensembldb",
@@ -7413,7 +7410,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "genefilter",
@@ -9004,7 +9000,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "rtracklayer",
         "zlibbioc"
@@ -11058,7 +11053,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "genefilter",
@@ -19775,7 +19769,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "beachmat",
         "biomaRt",
         "edgeR",
@@ -20907,7 +20900,6 @@
         "affy",
         "affyio",
         "annotate",
-        "aroma.light",
         "genefilter",
         "zlibbioc"
     ],
@@ -23992,7 +23984,6 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "motifStack",
@@ -25026,7 +25017,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rtracklayer",
@@ -25900,7 +25890,6 @@
         "SparseArray",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rhdf5",
@@ -28582,7 +28571,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "edgeR",
         "rtracklayer",
@@ -29700,7 +29688,6 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "aroma.light",
         "zlibbioc"
     ],
     "TissueEnrich": [
