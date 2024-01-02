@@ -12004,7 +12004,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomeInfoDb",
