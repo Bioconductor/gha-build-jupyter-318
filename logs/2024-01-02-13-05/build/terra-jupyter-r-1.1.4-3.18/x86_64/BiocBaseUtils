@@ -92,7 +92,7 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.30.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpLcSlK7/downloaded_packages’
+	‘/tmp/RtmpG7oED5/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -104,9 +104,9 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m11.420s
-user	0m8.842s
-sys	0m7.197s
+real	0m11.094s
+user	0m8.971s
+sys	0m7.171s
 * installing *source* package ‘tinytest’ ...
 ** package ‘tinytest’ successfully unpacked and MD5 sums checked
 ** using staged installation
