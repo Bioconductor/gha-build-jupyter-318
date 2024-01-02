@@ -4220,7 +4220,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "ComplexHeatmap",
         "CytoGLMM",
