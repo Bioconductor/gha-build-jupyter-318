@@ -7392,13 +7392,11 @@
         "GenomicAlignments",
         "Rsamtools"
     ],
-    "TDbasedUFE": [],
     "TDbasedUFEadv": [
         "AnnotationDbi",
         "DOSE",
         "GOSemSim",
         "RTCGA",
-        "TDbasedUFE",
         "enrichplot"
     ],
     "TEKRABber": [
