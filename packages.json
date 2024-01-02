@@ -22364,7 +22364,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "plasmut": [],
     "plgem": [
         "Biobase",
         "BiocGenerics"
