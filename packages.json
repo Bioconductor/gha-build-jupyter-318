@@ -16238,7 +16238,6 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomeInfoDb",
