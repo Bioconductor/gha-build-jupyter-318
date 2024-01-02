@@ -219,7 +219,6 @@
         "rtracklayer"
     ],
     "AlphaBeta": [],
-    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -3949,9 +3948,7 @@
         "genefilter",
         "sva"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "heatmaps": [],
     "HelloRanges": [
         "AnnotationDbi",
