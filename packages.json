@@ -9325,7 +9325,6 @@
         "BiocParallel"
     ],
     "EmpiricalBrownsMethod": [],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
