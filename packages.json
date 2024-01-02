@@ -4379,7 +4379,6 @@
         "rtracklayer",
         "siggenes"
     ],
-    "convert": [],
     "copa": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
@@ -21175,9 +21174,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "AnnotationDbi",
         "AnnotationFilter",
