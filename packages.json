@@ -5553,10 +5553,7 @@
         "MSstats",
         "MSstatsTMT"
     ],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MSstatsShiny": [
         "MSstats",
         "MSstatsPTM",
