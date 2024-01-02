@@ -122,7 +122,7 @@ packaged installation of ‘aroma.light’ as ‘aroma.light_3.32.0_R_x86_64-pc-
 * DONE (aroma.light)
 
 The downloaded source packages are in
-	‘/tmp/Rtmplh4RP7/downloaded_packages’
+	‘/tmp/Rtmphit3E4/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -134,6 +134,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m28.071s
-user	0m24.937s
-sys	0m9.649s
+real	0m28.065s
+user	0m25.261s
+sys	0m9.592s
