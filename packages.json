@@ -6762,7 +6762,6 @@
         "GenomicRanges"
     ],
     "MsBackendMassbank": [],
-    "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsDataHub": [
