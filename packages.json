@@ -5518,9 +5518,7 @@
         "AnnotationDbi",
         "biomaRt"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "AnnotationDbi",
         "BSgenome",
@@ -6230,7 +6228,6 @@
         "rtracklayer",
         "seqArchR"
     ],
-    "seqbias": [],
     "seqCAT": [
         "AnnotationDbi",
         "BSgenome",
