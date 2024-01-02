@@ -19638,7 +19638,6 @@
         "graph",
         "zlibbioc"
     ],
-    "NetPathMiner": [],
     "netresponse": [
         "BiocGenerics",
         "Rgraphviz",
