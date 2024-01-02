@@ -11777,7 +11777,6 @@
         "GenomicRanges",
         "Rsamtools"
     ],
-    "simona": [],
     "simpleSeg": [
         "DelayedArray",
         "GenomicRanges",
