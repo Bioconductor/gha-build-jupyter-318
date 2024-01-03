@@ -1,0 +1,127 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''awst'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.18 (BiocManager 1.30.22), R 4.3.2 (2023-10-31)
+Installing package(s) 'awst'
+also installing the dependencies ‘aroma.light’, ‘bibtex’, ‘EDASeq’, ‘RefManageR’
+
+trying URL 'https://bioconductor.org/packages/3.18/bioc/src/contrib/aroma.light_3.32.0.tar.gz'
+Content type 'application/x-gzip' length 388364 bytes (379 KB)
+==================================================
+downloaded 379 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/bibtex_0.5.1.tar.gz'
+Content type 'application/x-gzip' length 79311 bytes (77 KB)
+==================================================
+downloaded 77 KB
+
+trying URL 'https://bioconductor.org/packages/3.18/bioc/src/contrib/EDASeq_2.36.0.tar.gz'
+Content type 'application/x-gzip' length 1036740 bytes (1012 KB)
+==================================================
+downloaded 1012 KB
+
+trying URL 'https://cloud.r-project.org/src/contrib/RefManageR_1.4.0.tar.gz'
+Content type 'application/x-gzip' length 911039 bytes (889 KB)
+==================================================
+downloaded 889 KB
+
+trying URL 'https://bioconductor.org/packages/3.18/bioc/src/contrib/awst_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 386890 bytes (377 KB)
+==================================================
+downloaded 377 KB
+
+* installing *source* package ‘aroma.light’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘aroma.light’ as ‘aroma.light_3.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aroma.light)
+* installing *source* package ‘bibtex’ ...
+** package ‘bibtex’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bibtex’ as ‘bibtex_0.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bibtex)
+* installing *source* package ‘awst’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘awst’ as ‘awst_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (awst)
+* installing *source* package ‘EDASeq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EDASeq’ as ‘EDASeq_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EDASeq)
+* installing *source* package ‘RefManageR’ ...
+** package ‘RefManageR’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RefManageR’ as ‘RefManageR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RefManageR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm6YUK8/downloaded_packages’
+Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
+  'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
+  'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
+  'filelock', 'foreign', 'future', 'future.apply', 'GenomeInfoDb', 'gert',
+  'ggridges', 'gtools', 'haven', 'htmlwidgets', 'httpuv', 'igraph', 'interp',
+  'jsonlite', 'later', 'Matrix', 'matrixStats', 'metapod', 'mgcv', 'nlme',
+  'pkgbuild', 'processx', 'progress', 'ragg', 'RcppArmadillo', 'rpart',
+  'RSQLite', 'Rtsne', 'S4Vectors', 'sass', 'scales', 'Seurat', 'SeuratObject',
+  'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
+  'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
+
+real	0m53.812s
+user	0m47.971s
+sys	0m11.025s
