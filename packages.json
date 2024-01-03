@@ -271,7 +271,6 @@
         "rtracklayer"
     ],
     "BioNERO": [],
-    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
