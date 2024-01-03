@@ -1584,9 +1584,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [],
     "hicVennDiagram": [
         "rtracklayer"
@@ -2164,7 +2162,6 @@
         "rtracklayer"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [],
     "MultiRNAflow": [],
     "multiWGCNA": [],
     "mumosa": [
