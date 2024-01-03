@@ -1,5 +1,0 @@
-CNEr
-RJMCMCNucleosomes
-rTRMui
-methInheritSim
-methylInheritance
