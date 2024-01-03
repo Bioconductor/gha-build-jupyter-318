@@ -2080,7 +2080,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggkegg": [],
     "ggsc": [],
     "ggspavis": [
         "SpatialExperiment"
