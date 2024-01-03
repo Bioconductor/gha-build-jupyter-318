@@ -5481,7 +5481,6 @@
         "annotate",
         "genefilter"
     ],
-    "SimBu": [],
     "SimFFPE": [],
     "simpleSeg": [
         "SingleCellExperiment",
