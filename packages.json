@@ -137,9 +137,7 @@
     "artMS": [
         "MSstats"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpli": [
         "BSgenome",
         "GenomicFeatures",
@@ -310,9 +308,7 @@
         "sva"
     ],
     "BioNetStat": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "scran",
         "scuttle"
@@ -1933,9 +1929,7 @@
         "rtracklayer"
     ],
     "LinkHD": [],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "ClassifyR",
         "spicyR"
@@ -2370,9 +2364,7 @@
     "MSstatsTMT": [
         "MSstats"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
@@ -2625,9 +2617,7 @@
         "destiny",
         "monocle"
     ],
-    "phenomis": [
-        "ropls"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
@@ -3150,7 +3140,6 @@
     "roar": [
         "rtracklayer"
     ],
-    "ropls": [],
     "Rqc": [
         "BSgenome",
         "GenomicFeatures",
@@ -3161,9 +3150,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rrvgo": [],
     "RSVSim": [
         "ShortRead"
