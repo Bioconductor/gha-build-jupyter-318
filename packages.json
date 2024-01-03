@@ -440,7 +440,6 @@
         "rtracklayer"
     ],
     "CAMERA": [
-        "MsExperiment",
         "xcms"
     ],
     "canceR": [
@@ -675,7 +674,6 @@
         "rtracklayer"
     ],
     "cliqueMS": [
-        "MsExperiment",
         "xcms"
     ],
     "clusterExperiment": [
@@ -815,7 +813,6 @@
     ],
     "CoSIA": [],
     "cosmiq": [
-        "MsExperiment",
         "xcms"
     ],
     "cosmosR": [],
@@ -1351,7 +1348,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "FLAMES": [
@@ -1804,7 +1800,6 @@
     "ipdDb": [],
     "IPO": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "iSEEde": [],
@@ -1870,7 +1865,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "LRcell": [],
@@ -1917,7 +1911,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "mariner": [
@@ -2016,7 +2009,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MsExperiment",
         "xcms"
     ],
     "MetaPhOR": [
@@ -2176,7 +2168,6 @@
     ],
     "moanin": [],
     "MobilityTransformR": [
-        "MsExperiment",
         "xcms"
     ],
     "mogsa": [],
@@ -2234,7 +2225,6 @@
     "MouseFM": [],
     "MQmetrics": [],
     "MsDataHub": [],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2255,9 +2245,7 @@
         "sva"
     ],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstats": [],
     "MSstatsBig": [
         "MSstats"
@@ -2359,7 +2347,6 @@
     "nanotatoR": [],
     "NBAMSeq": [],
     "ncGTW": [
-        "MsExperiment",
         "xcms"
     ],
     "nearBynding": [
@@ -2929,7 +2916,6 @@
     ],
     "Ringo": [],
     "Risa": [
-        "MsExperiment",
         "xcms"
     ],
     "RITAN": [
@@ -3775,9 +3761,7 @@
     "wiggleplotr": [
         "rtracklayer"
     ],
-    "xcms": [
-        "MsExperiment"
-    ],
+    "xcms": [],
     "XDE": [
         "GeneMeta"
     ],
