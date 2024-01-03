@@ -1183,7 +1183,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "hicVennDiagram": [],
     "HiLDA": [
         "BSgenome",
         "GenomicFeatures"
