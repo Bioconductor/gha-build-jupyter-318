@@ -2769,7 +2769,6 @@
         "rtracklayer"
     ],
     "Nebulosa": [],
-    "NetActivity": [],
     "netSmooth": [
         "clusterExperiment",
         "scater",
