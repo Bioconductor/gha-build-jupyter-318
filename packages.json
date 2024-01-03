@@ -393,7 +393,6 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [],
     "cbaf": [
         "GenomicFeatures",
         "RTCGAToolbox",
