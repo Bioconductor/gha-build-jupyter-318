@@ -3101,10 +3101,7 @@
     "SCANVIS": [
         "rtracklayer"
     ],
-    "SCArray": [],
-    "SCArray.sat": [
-        "SCArray"
-    ],
+    "SCArray.sat": [],
     "scater": [],
     "scBFA": [
         "zinbwave"
