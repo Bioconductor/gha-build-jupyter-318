@@ -887,10 +887,7 @@
         "scater"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dada2": [
         "ShortRead"
     ],
@@ -1700,9 +1697,7 @@
         "IVAS",
         "rtracklayer"
     ],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "iNETgrate": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -3213,9 +3208,7 @@
     "SimBindProfiles": [
         "Ringo"
     ],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "single": [],
     "SingleCellSignalR": [
         "scran"
