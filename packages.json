@@ -1329,7 +1329,6 @@
         "GenomicFeatures",
         "TRESS"
     ],
-    "mariner": [],
     "maser": [
         "BSgenome",
         "GenomicFeatures",
