@@ -1,0 +1,90 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''tidySummarizedExperiment'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.18 (BiocManager 1.30.22), R 4.3.2 (2023-10-31)
+Installing package(s) 'tidySummarizedExperiment'
+also installing the dependencies ‘ttservice’, ‘markdown’
+
+trying URL 'https://cloud.r-project.org/src/contrib/ttservice_0.4.0.tar.gz'
+Content type 'application/x-gzip' length 6639 bytes
+==================================================
+downloaded 6639 bytes
+
+trying URL 'https://cloud.r-project.org/src/contrib/markdown_1.12.tar.gz'
+Content type 'application/x-gzip' length 113037 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://bioconductor.org/packages/3.18/bioc/src/contrib/tidySummarizedExperiment_1.12.0.tar.gz'
+Content type 'application/x-gzip' length 605511 bytes (591 KB)
+==================================================
+downloaded 591 KB
+
+* installing *source* package ‘ttservice’ ...
+** package ‘ttservice’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ttservice’ as ‘ttservice_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ttservice)
+* installing *source* package ‘markdown’ ...
+** package ‘markdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘markdown’ as ‘markdown_1.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (markdown)
+* installing *source* package ‘tidySummarizedExperiment’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Note: wrong number of arguments to '>' 
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tidySummarizedExperiment’ as ‘tidySummarizedExperiment_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidySummarizedExperiment)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp9ylhu6/downloaded_packages’
+Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
+  'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
+  'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
+  'filelock', 'foreign', 'future', 'future.apply', 'GenomeInfoDb', 'gert',
+  'ggridges', 'gtools', 'haven', 'htmlwidgets', 'httpuv', 'igraph', 'interp',
+  'jsonlite', 'later', 'Matrix', 'matrixStats', 'metapod', 'mgcv', 'nlme',
+  'pkgbuild', 'processx', 'progress', 'ragg', 'RcppArmadillo', 'rpart',
+  'RSQLite', 'Rtsne', 'S4Vectors', 'sass', 'scales', 'Seurat', 'SeuratObject',
+  'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
+  'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
+
+real	0m28.286s
+user	0m24.657s
+sys	0m6.555s
