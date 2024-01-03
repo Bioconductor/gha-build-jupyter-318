@@ -470,7 +470,6 @@
         "GSEABase",
         "annotate"
     ],
-    "BiocSet": [],
     "biomaRt": [],
     "biomvRCNS": [
         "BSgenome",
@@ -756,7 +755,6 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
@@ -5332,7 +5330,6 @@
         "scuttle"
     ],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "annotate"
     ],
