@@ -356,9 +356,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "MAST",
@@ -3586,7 +3584,6 @@
         "genefilter"
     ],
     "PhenStat": [],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "AnnotationHub",
