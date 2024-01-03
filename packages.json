@@ -2958,7 +2958,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "IntOMICS": [],
     "IONiseR": [
         "GenomicAlignments",
         "ShortRead"
