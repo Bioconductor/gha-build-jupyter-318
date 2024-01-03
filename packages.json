@@ -2687,7 +2687,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "miQC": [],
     "MIRA": [
         "BSgenome",
         "GenomicAlignments",
