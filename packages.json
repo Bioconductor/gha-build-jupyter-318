@@ -156,10 +156,7 @@
     "Basic4Cseq": [
         "BSgenome"
     ],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
