@@ -2210,7 +2210,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "goTools": [],
     "GRaNIE": [
         "AnnotationHub",
         "GenomicAlignments",
