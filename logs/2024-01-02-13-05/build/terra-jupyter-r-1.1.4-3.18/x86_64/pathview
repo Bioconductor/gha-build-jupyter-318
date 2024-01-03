@@ -71,7 +71,7 @@ packaged installation of ‘pathview’ as ‘pathview_1.42.0_R_x86_64-pc-linux-
 * DONE (pathview)
 
 The downloaded source packages are in
-	‘/tmp/RtmpTxZOXZ/downloaded_packages’
+	‘/tmp/Rtmp3zBc61/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -83,6 +83,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	3m26.649s
-user	3m19.714s
-sys	0m8.207s
+real	3m24.922s
+user	3m18.501s
+sys	0m8.561s
