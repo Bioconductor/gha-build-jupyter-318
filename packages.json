@@ -1268,9 +1268,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "GenomicFeatures",
         "bumphunter",
@@ -3141,7 +3139,6 @@
         "DropletUtils",
         "GSVA",
         "GenomicFeatures",
-        "TSCAN",
         "celda",
         "ensembldb",
         "rtracklayer",
@@ -3446,7 +3443,6 @@
         "rtracklayer"
     ],
     "TSAR": [],
-    "TSCAN": [],
     "TVTB": [
         "BSgenome",
         "GenomicFeatures",
