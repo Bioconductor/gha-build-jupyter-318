@@ -167,7 +167,7 @@ packaged installation of ‘karyoploteR’ as ‘karyoploteR_1.28.0_R_x86_64-pc-
 * DONE (karyoploteR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpNmRxkb/downloaded_packages’
+	‘/tmp/RtmpAvxx2b/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -179,6 +179,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	1m58.076s
-user	1m48.622s
-sys	0m19.604s
+real	1m58.570s
+user	1m49.346s
+sys	0m19.527s
