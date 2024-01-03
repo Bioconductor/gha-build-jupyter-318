@@ -19,7 +19,6 @@
         "GOstats",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -36,7 +35,6 @@
         "GOstats",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -1821,7 +1819,6 @@
         "ShortRead"
     ],
     "GISPA": [],
-    "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
