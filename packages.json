@@ -1133,7 +1133,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "girafe": [],
     "glmSparseNet": [],
     "gmapR": [
         "BSgenome",
