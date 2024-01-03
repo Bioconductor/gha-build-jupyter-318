@@ -761,8 +761,7 @@
     "Doscheda": [],
     "doseR": [],
     "doubletrouble": [
-        "GenomicFeatures",
-        "syntenet"
+        "GenomicFeatures"
     ],
     "dreamlet": [
         "EnrichmentBrowser",
@@ -2426,7 +2425,6 @@
     ],
     "SVMDO": [],
     "synergyfinder": [],
-    "syntenet": [],
     "tadar": [
         "BSgenome",
         "GenomicFeatures",
