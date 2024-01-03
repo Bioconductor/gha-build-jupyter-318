@@ -1196,7 +1196,6 @@
         "rtracklayer"
     ],
     "DELocal": [],
-    "deltaCaptureC": [],
     "demuxSNP": [
         "BSgenome",
         "GenomicAlignments",
