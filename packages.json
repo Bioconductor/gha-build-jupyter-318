@@ -2728,7 +2728,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
@@ -3972,7 +3971,6 @@
         "rtracklayer"
     ],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "SARC": [
