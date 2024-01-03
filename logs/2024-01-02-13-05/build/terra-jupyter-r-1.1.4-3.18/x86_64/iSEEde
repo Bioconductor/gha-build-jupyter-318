@@ -70,7 +70,7 @@ packaged installation of ‘RefManageR’ as ‘RefManageR_1.4.0_R_x86_64-pc-lin
 * DONE (RefManageR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpDcUb5X/downloaded_packages’
+	‘/tmp/RtmpmyeGlZ/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -82,6 +82,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m32.082s
-user	0m28.686s
-sys	0m6.840s
+real	0m32.392s
+user	0m29.233s
+sys	0m6.809s
