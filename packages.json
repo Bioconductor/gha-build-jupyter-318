@@ -25,7 +25,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "BSgenome",
         "Category",
