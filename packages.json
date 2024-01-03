@@ -1349,7 +1349,6 @@
         "snm",
         "sva"
     ],
-    "EDIRquery": [],
     "ELMER": [
         "BSgenome",
         "GenomicAlignments",
