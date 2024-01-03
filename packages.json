@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAM": [],
     "ADAMgui": [
         "ADAM"
@@ -2944,7 +2942,6 @@
         "goseq",
         "rtracklayer"
     ],
-    "snapCGH": [],
     "snm": [],
     "SNPhood": [
         "BSgenome",
