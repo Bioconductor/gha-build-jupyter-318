@@ -209,7 +209,6 @@
         "BASiCS",
         "scran"
     ],
-    "BasicSTARRseq": [],
     "BatchQC": [],
     "BayesSpace": [
         "scater",
