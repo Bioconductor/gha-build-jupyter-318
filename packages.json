@@ -313,7 +313,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CAMERA": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -956,9 +955,7 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "BSgenome",
         "GenomicFeatures",
@@ -1281,9 +1278,7 @@
     ],
     "iPath": [],
     "ipdDb": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "iSEEhub": [],
     "ISLET": [],
     "IsoformSwitchAnalyzeR": [
@@ -1328,9 +1323,7 @@
         "ClassifyR",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "GenomicFeatures",
         "bumphunter",
@@ -1362,9 +1355,7 @@
         "GenomicFeatures",
         "TRESS"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "mariner": [
         "plotgardener",
         "plyranges"
@@ -1435,9 +1426,7 @@
         "FlowSOM"
     ],
     "metagene2": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "methInheritSim": [
         "methylKit"
     ],
