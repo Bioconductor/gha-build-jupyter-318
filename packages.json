@@ -210,7 +210,6 @@
         "scran"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [],
     "BatchQC": [],
     "BayesSpace": [
         "scater",
@@ -581,7 +580,6 @@
     ],
     "chromPlot": [],
     "ChromSCape": [
-        "batchelor",
         "rtracklayer",
         "scater",
         "scran"
@@ -2176,7 +2174,6 @@
     "MultiRNAflow": [],
     "multiWGCNA": [],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -2976,7 +2973,6 @@
     ],
     "scider": [],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -3146,7 +3142,6 @@
         "GSVA",
         "GenomicFeatures",
         "TSCAN",
-        "batchelor",
         "celda",
         "ensembldb",
         "rtracklayer",
