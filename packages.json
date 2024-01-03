@@ -2215,7 +2215,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "infercnv": [],
     "InPAS": [
         "BSgenome",
         "GenomicAlignments",
