@@ -1918,9 +1918,7 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GSReg": [
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3075,7 +3073,6 @@
         "ontoProc"
     ],
     "POWSC": [],
-    "PPInfer": [],
     "pram": [
         "GenomicAlignments",
         "rtracklayer"
