@@ -160,7 +160,6 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BayesSpace": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
@@ -2016,9 +2015,7 @@
         "ensembldb",
         "regioneR"
     ],
-    "RegionalST": [
-        "BayesSpace"
-    ],
+    "RegionalST": [],
     "regioneR": [
         "BSgenome"
     ],
