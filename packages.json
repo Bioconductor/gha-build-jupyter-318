@@ -229,7 +229,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -1614,7 +1613,6 @@
         "ShortRead"
     ],
     "GISPA": [],
-    "glmGamPoi": [],
     "glmSparseNet": [],
     "GlobalAncova": [],
     "gmapR": [
@@ -1928,9 +1926,7 @@
         "sva"
     ],
     "LACE": [],
-    "lemur": [
-        "glmGamPoi"
-    ],
+    "lemur": [],
     "lineagespot": [
         "BSgenome",
         "GenomicFeatures",
@@ -3783,9 +3779,7 @@
         "chipseq",
         "rtracklayer"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "transite": [],
     "tRanslatome": [],
     "traseR": [
