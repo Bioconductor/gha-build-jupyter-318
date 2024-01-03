@@ -847,7 +847,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CNVPanelizer": [],
     "CNVrd2": [
         "BSgenome",
         "GenomicAlignments",
