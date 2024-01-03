@@ -2260,7 +2260,6 @@
         "AUCell",
         "GSVA",
         "GenomicFeatures",
-        "SingleCellSignalR",
         "ensembldb"
     ],
     "scMerge": [],
@@ -2369,7 +2368,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
