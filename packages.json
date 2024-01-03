@@ -2978,7 +2978,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "sampleClassifier": [],
     "SARC": [
         "GenomicFeatures",
         "plyranges",
