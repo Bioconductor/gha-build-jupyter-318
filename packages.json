@@ -2023,7 +2023,6 @@
     "rGADEM": [
         "BSgenome"
     ],
-    "RGMQL": [],
     "RgnTX": [
         "BSgenome",
         "GenomicFeatures",
