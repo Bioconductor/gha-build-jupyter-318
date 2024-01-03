@@ -3743,7 +3743,6 @@
         "scuttle"
     ],
     "scDDboost": [],
-    "scds": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
@@ -4002,7 +4001,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
