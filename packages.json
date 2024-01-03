@@ -5295,7 +5295,6 @@
         "annotate",
         "biomaRt"
     ],
-    "sangeranalyseR": [],
     "SARC": [
         "GenomicAlignments",
         "GenomicFeatures",
