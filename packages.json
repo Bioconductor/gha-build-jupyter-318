@@ -640,9 +640,7 @@
         "rtracklayer"
     ],
     "compSPOT": [],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "consensusDE": [
         "EDASeq",
         "GenomicFeatures",
@@ -888,7 +886,6 @@
         "rtracklayer"
     ],
     "Dino": [],
-    "distinct": [],
     "DMCHMM": [
         "rtracklayer"
     ],
