@@ -484,7 +484,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "chipseq",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -492,7 +491,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "chipseq": [],
     "ChIPsim": [],
     "ChIPXpress": [
         "frma",
@@ -1466,7 +1464,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "VariantTools",
-        "chipseq",
         "gmapR",
         "rtracklayer"
     ],
@@ -2241,7 +2238,6 @@
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
-        "chipseq",
         "rGREAT",
         "rtracklayer",
         "soGGi"
@@ -2885,7 +2881,6 @@
         "rtracklayer"
     ],
     "soGGi": [
-        "chipseq",
         "rtracklayer"
     ],
     "SomaticSignatures": [
@@ -3090,7 +3085,6 @@
     ],
     "transcriptR": [
         "GenomicFeatures",
-        "chipseq",
         "rtracklayer"
     ],
     "transite": [],
