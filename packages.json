@@ -5061,7 +5061,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "RNAsense": [],
     "RNAseqCovarImpute": [],
     "RnaSeqSampleSize": [
         "BSgenome",
