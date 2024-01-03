@@ -2231,7 +2231,6 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "BSgenome",
         "GenomicAlignments",
