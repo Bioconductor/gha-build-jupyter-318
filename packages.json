@@ -413,7 +413,6 @@
     ],
     "ChromHeatMap": [],
     "chromPlot": [],
-    "ChromSCape": [],
     "chromVAR": [
         "BSgenome",
         "CNEr",
