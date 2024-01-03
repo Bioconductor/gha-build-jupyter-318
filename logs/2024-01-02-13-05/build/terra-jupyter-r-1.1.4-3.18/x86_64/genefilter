@@ -71,7 +71,7 @@ packaged installation of ‘genefilter’ as ‘genefilter_1.84.0_R_x86_64-pc-li
 * DONE (genefilter)
 
 The downloaded source packages are in
-	‘/tmp/RtmpQj0pbS/downloaded_packages’
+	‘/tmp/RtmpAlVTSW/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -83,6 +83,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m22.471s
-user	0m17.761s
-sys	0m4.711s
+real	0m19.158s
+user	0m16.291s
+sys	0m4.749s
