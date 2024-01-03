@@ -4422,7 +4422,6 @@
         "genefilter",
         "sva"
     ],
-    "QTLExperiment": [],
     "quantro": [
         "GenomicAlignments",
         "GenomicFeatures",
