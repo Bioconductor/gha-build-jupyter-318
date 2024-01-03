@@ -3390,7 +3390,6 @@
         "scater",
         "scran",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -3822,9 +3821,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "ViSEAGO": [],
     "vissE": [],
     "Voyager": [
@@ -3897,7 +3894,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
         "variancePartition"
