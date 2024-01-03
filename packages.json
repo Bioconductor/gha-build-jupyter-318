@@ -729,7 +729,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "DMCHMM": [],
     "DMRcate": [
         "BSgenome",
         "GenomicFeatures",
