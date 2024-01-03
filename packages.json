@@ -149,9 +149,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "APL": [
-        "topGO"
-    ],
+    "APL": [],
     "appreci8R": [
         "BSgenome",
         "GenomicAlignments",
@@ -345,9 +343,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "BicARE": [
         "GSEABase"
     ],
@@ -671,9 +667,7 @@
         "scater",
         "scuttle"
     ],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [],
     "CellMixS": [
         "scater",
@@ -1005,8 +999,7 @@
         "biovizBase",
         "ensembldb",
         "methylPipe",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "compSPOT": [],
     "condiments": [
@@ -1034,9 +1027,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicAlignments",
@@ -2058,9 +2049,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2082,8 +2071,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "GreyListChIP": [
         "BSgenome",
@@ -2271,8 +2259,7 @@
         "genefilter",
         "goseq",
         "pcaExplorer",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "IdeoViz": [
         "GenomicAlignments",
@@ -2860,9 +2847,7 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "MsExperiment",
         "xcms"
@@ -3171,9 +3156,7 @@
         "oligoClasses"
     ],
     "oligoClasses": [],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicplotR": [],
     "omicRexposome": [
         "genefilter",
@@ -3284,8 +3267,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "topGO"
+        "genefilter"
     ],
     "PDATK": [
         "genefu"
@@ -3324,8 +3306,7 @@
     "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "PICS": [
         "GenomicAlignments"
@@ -3487,8 +3468,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [],
     "puma": [
@@ -3834,8 +3814,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "RJMCMCNucleosomes": [
         "GenomicAlignments",
@@ -4737,7 +4716,6 @@
         "ClassifyR",
         "genefilter"
     ],
-    "topGO": [],
     "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
@@ -4754,9 +4732,7 @@
         "slingshot"
     ],
     "TrajectoryUtils": [],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4768,9 +4744,7 @@
         "glmGamPoi"
     ],
     "transite": [],
-    "tRanslatome": [
-        "topGO"
-    ],
+    "tRanslatome": [],
     "traseR": [
         "BSgenome",
         "GenomicAlignments",
@@ -4932,9 +4906,7 @@
         "zellkonverter"
     ],
     "vidger": [],
-    "ViSEAGO": [
-        "topGO"
-    ],
+    "ViSEAGO": [],
     "vissE": [
         "ExperimentHub",
         "GSEABase"
