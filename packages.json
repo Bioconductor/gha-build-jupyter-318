@@ -817,7 +817,6 @@
         "xcms"
     ],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -2324,7 +2323,6 @@
     "MBECS": [
         "sva"
     ],
-    "mbkmeans": [],
     "mBPCR": [
         "GWASTools",
         "oligoClasses"
@@ -2824,7 +2822,6 @@
     "NetActivity": [],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "scater",
         "scuttle",
         "zinbwave"
