@@ -1,0 +1,15 @@
+ADaCGH2
+scMerge
+BioTIP
+pipeComp
+mumosa
+Spaniel
+BayesSpace
+Dino
+spatialHeatmap
+BASiCS
+celda
+scDD
+msImpute
+SingleCellSignalR
+CiteFuse
