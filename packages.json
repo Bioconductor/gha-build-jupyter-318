@@ -942,9 +942,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "cn.mops": [
-        "exomeCopy"
-    ],
+    "cn.mops": [],
     "CNEr": [
         "GenomicAlignments",
         "rtracklayer"
@@ -962,7 +960,6 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
@@ -976,14 +973,11 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
     ],
-    "CNVPanelizer": [
-        "exomeCopy"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [
         "BSgenome",
@@ -1085,7 +1079,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation",
-        "exomeCopy",
         "rtracklayer"
     ],
     "conumee": [
@@ -1104,7 +1097,6 @@
         "biovizBase",
         "cn.mops",
         "ensembldb",
-        "exomeCopy",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
@@ -1758,7 +1750,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "exomeCopy": [],
     "exomePeak2": [
         "BSgenome",
         "GenomicAlignments",
@@ -3398,8 +3389,7 @@
         "sva"
     ],
     "panelcn.mops": [
-        "cn.mops",
-        "exomeCopy"
+        "cn.mops"
     ],
     "PanomiR": [
         "DOSE",
