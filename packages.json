@@ -2172,7 +2172,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "peco": [],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer"
