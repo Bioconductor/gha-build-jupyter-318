@@ -1130,7 +1130,6 @@
     "goseq": [
         "GenomicFeatures"
     ],
-    "goSorensen": [],
     "GOTHiC": [
         "BSgenome"
     ],
