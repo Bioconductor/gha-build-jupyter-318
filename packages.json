@@ -230,8 +230,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "brainflowprobes": [
         "BSgenome",
@@ -269,8 +268,7 @@
     "BUSpaRse": [
         "BSgenome",
         "GenomicFeatures",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "BSgenome",
@@ -348,8 +346,7 @@
         "genomation"
     ],
     "cfDNAPro": [
-        "BSgenome",
-        "plyranges"
+        "BSgenome"
     ],
     "cfTools": [],
     "ChAMP": [
@@ -1068,8 +1065,7 @@
         "BSgenome",
         "GenomicFeatures",
         "RCAS",
-        "genomation",
-        "plyranges"
+        "genomation"
     ],
     "GenomicScores": [],
     "GenomicSuperSignature": [],
@@ -1237,8 +1233,7 @@
     "InPAS": [
         "BSgenome",
         "GenomicFeatures",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "GenomicFeatures"
@@ -1293,8 +1288,7 @@
     "katdetectr": [
         "BSgenome",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "LACE": [],
     "lineagespot": [
@@ -1342,8 +1336,7 @@
     ],
     "MAIT": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "BSgenome",
@@ -1428,8 +1421,7 @@
         "GenomicFeatures",
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1597,7 +1589,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -1654,8 +1645,7 @@
     "nanotatoR": [],
     "NBAMSeq": [],
     "nearBynding": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "netSmooth": [
         "clusterExperiment",
@@ -1673,9 +1663,7 @@
         "GenomicFeatures"
     ],
     "NormalyzerDE": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "octad": [
         "EDASeq",
         "GSVA",
@@ -1778,14 +1766,9 @@
     "pipeFrame": [
         "BSgenome"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
-    "plyinteractions": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plyinteractions": [],
     "pmm": [],
     "podkat": [
         "BSgenome"
@@ -2157,8 +2140,7 @@
         "GenomicFeatures"
     ],
     "SARC": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "SBGNview": [],
     "SCAN.UPC": [
@@ -2534,8 +2516,7 @@
         "BSgenome",
         "GenomicFeatures",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "BSgenome",
