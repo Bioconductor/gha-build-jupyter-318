@@ -3527,9 +3527,7 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment"
     ],
-    "MICSQTL": [
-        "TOAST"
-    ],
+    "MICSQTL": [],
     "midasHLA": [],
     "miloR": [
         "SingleCellExperiment"
@@ -4647,7 +4645,6 @@
     "RegionalST": [
         "BayesSpace",
         "SingleCellExperiment",
-        "TOAST",
         "scater",
         "scran",
         "scuttle"
@@ -6024,7 +6021,6 @@
         "SingleCellExperiment",
         "annotate"
     ],
-    "TOAST": [],
     "tomoda": [],
     "TOP": [
         "ClassifyR",
