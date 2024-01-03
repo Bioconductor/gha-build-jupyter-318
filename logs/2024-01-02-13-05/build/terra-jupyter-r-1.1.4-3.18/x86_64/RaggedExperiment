@@ -50,7 +50,7 @@ packaged installation of ‘RaggedExperiment’ as ‘RaggedExperiment_1.26.0_R_
 * DONE (RaggedExperiment)
 
 The downloaded source packages are in
-	‘/tmp/RtmpcXzmaZ/downloaded_packages’
+	‘/tmp/Rtmpz5JyVZ/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -62,6 +62,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	0m39.923s
-user	0m36.260s
-sys	0m5.526s
+real	0m38.958s
+user	0m35.610s
+sys	0m5.524s
