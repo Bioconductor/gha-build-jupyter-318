@@ -1303,7 +1303,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "DEGreport": [],
     "DELocal": [],
     "deltaCaptureC": [],
     "demuxSNP": [
@@ -2404,9 +2403,7 @@
         "sva",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
