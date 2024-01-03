@@ -202,7 +202,6 @@
         "ensembldb"
     ],
     "BioNERO": [],
-    "BioTIP": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
