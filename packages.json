@@ -2822,7 +2822,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "Rcpi": [],
     "ReactomePA": [
         "DOSE",
         "enrichplot"
