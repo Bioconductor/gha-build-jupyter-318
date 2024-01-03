@@ -514,9 +514,7 @@
         "rtracklayer"
     ],
     "cfTools": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "ChAMP": [
         "BSgenome",
         "DMRcate",
@@ -676,7 +674,6 @@
         "rtracklayer"
     ],
     "CNORfuzzy": [],
-    "CNTools": [],
     "CNVfilteR": [
         "BSgenome",
         "CopyNumberPlots",
