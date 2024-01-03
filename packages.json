@@ -747,7 +747,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "Dino": [],
     "DMCHMM": [],
     "DMRcate": [
         "BSgenome",
