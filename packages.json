@@ -735,8 +735,7 @@
     "compSPOT": [],
     "condiments": [
         "distinct",
-        "scater",
-        "slingshot"
+        "scater"
     ],
     "consensusDE": [
         "EDASeq",
@@ -3020,8 +3019,7 @@
     ],
     "scran": [],
     "scRNAseqApp": [
-        "rtracklayer",
-        "slingshot"
+        "rtracklayer"
     ],
     "scruff": [
         "BSgenome",
@@ -3192,7 +3190,6 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "goseq",
@@ -3439,9 +3436,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [
         "GenomicFeatures",
         "ShortRead",
@@ -3455,9 +3450,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt"
