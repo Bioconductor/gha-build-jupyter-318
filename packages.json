@@ -2640,7 +2640,6 @@
         "GWASTools",
         "oligoClasses"
     ],
-    "MCbiclust": [],
     "mCSEA": [
         "BSgenome",
         "GenomicAlignments",
