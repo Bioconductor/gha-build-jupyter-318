@@ -2967,7 +2967,6 @@
         "rtracklayer",
         "scran"
     ],
-    "scider": [],
     "scMerge": [
         "scater",
         "scran"
