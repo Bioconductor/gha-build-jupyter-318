@@ -4994,7 +4994,6 @@
     "VplotR": [
         "GenomicAlignments"
     ],
-    "vsclust": [],
     "vtpnet": [
         "BSgenome",
         "GenomicAlignments",
