@@ -392,7 +392,6 @@
     ],
     "BiSeq": [
         "GenomicAlignments",
-        "globaltest",
         "rtracklayer"
     ],
     "blacksheepr": [
@@ -659,7 +658,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "globaltest",
         "goseq",
         "lumi",
         "methylumi",
@@ -1870,10 +1868,7 @@
     "Glimma": [],
     "glmGamPoi": [],
     "glmSparseNet": [],
-    "GlobalAncova": [
-        "globaltest"
-    ],
-    "globaltest": [],
+    "GlobalAncova": [],
     "GloScope": [],
     "gmapR": [
         "BSgenome",
@@ -3992,9 +3987,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo"
     ],
