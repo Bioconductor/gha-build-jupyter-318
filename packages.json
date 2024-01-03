@@ -475,7 +475,6 @@
         "rtracklayer"
     ],
     "cfTools": [],
-    "cghMCR": [],
     "ChAMP": [
         "BSgenome",
         "DMRcate",
