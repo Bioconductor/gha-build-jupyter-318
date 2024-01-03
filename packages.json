@@ -1249,7 +1249,6 @@
     "iNETgrate": [
         "GenomicFeatures",
         "OrganismDbi",
-        "Pigengene",
         "bumphunter",
         "minfi"
     ],
@@ -1806,7 +1805,6 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "Pigengene": [],
     "PING": [
         "BSgenome",
         "GenomicFeatures",
