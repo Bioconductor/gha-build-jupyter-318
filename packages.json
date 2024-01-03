@@ -1045,7 +1045,6 @@
         "variancePartition",
         "zenith"
     ],
-    "DropletUtils": [],
     "drugTargetInteractions": [
         "GenomicFeatures",
         "ensembldb",
@@ -1285,7 +1284,6 @@
     ],
     "FLAMES": [
         "BSgenome",
-        "DropletUtils",
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
@@ -2936,9 +2934,7 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scCB2": [
-        "DropletUtils"
-    ],
+    "scCB2": [],
     "scClassify": [
         "Cepo"
     ],
@@ -2989,7 +2985,6 @@
         "rtracklayer"
     ],
     "scPipe": [
-        "DropletUtils",
         "rtracklayer"
     ],
     "scran": [],
@@ -3125,7 +3120,6 @@
         "scran"
     ],
     "singleCellTK": [
-        "DropletUtils",
         "GSVA",
         "GenomicFeatures",
         "celda",
@@ -3198,7 +3192,6 @@
         "rtracklayer"
     ],
     "Spaniel": [
-        "DropletUtils",
         "scater",
         "scran"
     ],
