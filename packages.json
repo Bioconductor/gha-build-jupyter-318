@@ -3298,7 +3298,6 @@
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "stJoincount": [],
     "strandCheckR": [
         "GenomicFeatures",
         "rtracklayer"
