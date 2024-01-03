@@ -188,16 +188,11 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
@@ -250,9 +245,7 @@
         "rtracklayer"
     ],
     "BioNERO": [],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
@@ -425,9 +418,7 @@
         "clusterProfiler"
     ],
     "ccmap": [],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "CellBarcode": [],
     "CelliD": [],
     "cellmigRation": [],
@@ -533,8 +524,7 @@
     ],
     "chromPlot": [],
     "ChromSCape": [
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "chromstaR": [],
     "chromVAR": [
@@ -567,9 +557,7 @@
         "SGSeq",
         "rtracklayer"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "ClassifyR": [],
     "cleanUpdTSeq": [
         "BSgenome",
@@ -847,8 +835,7 @@
         "rtracklayer"
     ],
     "decontX": [
-        "celda",
-        "scran"
+        "celda"
     ],
     "deconvR": [
         "GenomicFeatures",
@@ -929,9 +916,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "distinct": [],
     "DMCHMM": [
         "rtracklayer"
@@ -1216,8 +1201,7 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "flowCut": [
         "flowDensity"
@@ -2001,9 +1985,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "MSnID": [],
     "MSPrep": [],
     "msqrob2": [],
@@ -2043,9 +2025,7 @@
     "multiGSEA": [],
     "MultiRNAflow": [],
     "multiWGCNA": [],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "GenomicFeatures",
@@ -2262,9 +2242,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "pipeFrame": [
         "BSgenome",
         "rtracklayer"
@@ -2492,8 +2470,7 @@
         "rtracklayer"
     ],
     "RegionalST": [
-        "BayesSpace",
-        "scran"
+        "BayesSpace"
     ],
     "regioneR": [
         "BSgenome",
@@ -2781,24 +2758,18 @@
         "Cepo"
     ],
     "scDblFinder": [
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
-    "scDD": [
-        "scran"
-    ],
+    "scDD": [],
     "scFeatures": [
         "AUCell",
         "GSVA",
         "GenomicFeatures",
         "SingleCellSignalR",
         "ensembldb",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
-    "scMerge": [
-        "scran"
-    ],
+    "scMerge": [],
     "scmeth": [
         "BSgenome",
         "GenomicFeatures",
@@ -2826,7 +2797,6 @@
     "scPipe": [
         "rtracklayer"
     ],
-    "scran": [],
     "scRNAseqApp": [
         "rtracklayer"
     ],
@@ -2852,8 +2822,7 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "rtracklayer",
-        "scran"
+        "rtracklayer"
     ],
     "scviR": [],
     "segmenter": [
@@ -2940,9 +2909,7 @@
     ],
     "SimBindProfiles": [],
     "simpleSeg": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
         "GenomicFeatures",
@@ -2951,7 +2918,6 @@
         "rtracklayer",
         "scDblFinder",
         "scMerge",
-        "scran",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -3012,9 +2978,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "SparseSignatures": [
         "BSgenome",
         "rtracklayer"
@@ -3022,9 +2986,7 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "spatialHeatmap": [
-        "scran"
-    ],
+    "spatialHeatmap": [],
     "SpatialOmicsOverlay": [
         "GeomxTools"
     ],
