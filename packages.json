@@ -3190,7 +3190,6 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [],
     "strandCheckR": [
         "GenomicFeatures",
         "rtracklayer"
