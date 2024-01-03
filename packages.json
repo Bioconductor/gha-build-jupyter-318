@@ -449,7 +449,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellHTS2": [],
     "CelliD": [],
     "cellmigRation": [],
     "CellMixS": [],
@@ -1412,9 +1411,7 @@
     "GEOexplorer": [],
     "GeomxTools": [],
     "GeoTcgaData": [],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [],
     "ggbio": [
         "BSgenome",
@@ -2737,9 +2734,7 @@
         "bumphunter",
         "rtracklayer"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "BSgenome",
         "GenomicFeatures",
@@ -3182,9 +3177,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "strandCheckR": [
         "GenomicFeatures",
         "rtracklayer"
