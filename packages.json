@@ -6410,7 +6410,6 @@
         "safe",
         "variancePartition"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "SingleCellExperiment",
         "annotate",
