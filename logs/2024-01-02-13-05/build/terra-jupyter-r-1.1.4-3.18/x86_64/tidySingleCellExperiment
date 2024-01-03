@@ -2791,7 +2791,7 @@ packaged installation of ‘GGally’ as ‘GGally_2.2.0_R_x86_64-pc-linux-gnu.t
 * DONE (GGally)
 
 The downloaded source packages are in
-	‘/tmp/RtmpMXkb6f/downloaded_packages’
+	‘/tmp/RtmpY2qcHe/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -2803,6 +2803,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	4m46.989s
-user	4m23.063s
-sys	0m58.834s
+real	4m39.787s
+user	4m16.947s
+sys	0m58.644s
