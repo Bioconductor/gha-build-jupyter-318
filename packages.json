@@ -524,7 +524,6 @@
     "ChromSCape": [
         "rtracklayer"
     ],
-    "chromstaR": [],
     "chromVAR": [
         "BSgenome",
         "CNEr",
