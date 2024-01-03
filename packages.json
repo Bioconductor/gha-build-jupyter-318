@@ -1510,7 +1510,6 @@
         "SingleCellExperiment",
         "SpatialExperiment"
     ],
-    "CytoPipelineGUI": [],
     "cytoviewer": [
         "SingleCellExperiment",
         "SpatialExperiment",
