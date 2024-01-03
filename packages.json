@@ -1415,7 +1415,6 @@
         "rtracklayer"
     ],
     "GeneGeneInteR": [],
-    "GeneMeta": [],
     "GENESIS": [
         "GWASTools",
         "SeqVarTools"
@@ -3704,9 +3703,7 @@
         "rtracklayer"
     ],
     "xcms": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
