@@ -1524,7 +1524,6 @@
         "scuttle"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytomapper": [
         "SingleCellExperiment",
         "SpatialExperiment"
