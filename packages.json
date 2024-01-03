@@ -1893,8 +1893,7 @@
     "easier": [
         "AnnotationHub",
         "DESeq2",
-        "ExperimentHub",
-        "quantiseqr"
+        "ExperimentHub"
     ],
     "easylift": [
         "GenomicAlignments",
@@ -4571,7 +4570,6 @@
         "sva"
     ],
     "QTLExperiment": [],
-    "quantiseqr": [],
     "quantro": [
         "GenomicAlignments",
         "GenomicFeatures",
