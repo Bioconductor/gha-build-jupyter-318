@@ -586,7 +586,6 @@
     ],
     "CAMERA": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "canceR": [
@@ -897,7 +896,6 @@
     ],
     "cliqueMS": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "clusterExperiment": [
@@ -1082,7 +1080,6 @@
     ],
     "cosmiq": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "cosmosR": [
@@ -1783,7 +1780,6 @@
     "flagme": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "FLAMES": [
@@ -2377,7 +2373,6 @@
     "IPO": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "iSEE": [],
@@ -2475,7 +2470,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "LoomExperiment": [],
@@ -2539,7 +2533,6 @@
     "MAIT": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "mariner": [
@@ -2643,9 +2636,7 @@
         "GSEABase",
         "genefilter"
     ],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "metabolomicsWorkbenchR": [],
     "metabomxtr": [],
     "MetaboSignal": [
@@ -2668,7 +2659,6 @@
     "metaMS": [
         "CAMERA",
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -2884,7 +2874,6 @@
     ],
     "MobilityTransformR": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "mogsa": [
@@ -2960,9 +2949,7 @@
     "MsDataHub": [
         "ExperimentHub"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicAlignments",
@@ -2985,12 +2972,9 @@
         "genefilter",
         "sva"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "MSstats": [],
     "MSstatsBig": [
@@ -3111,7 +3095,6 @@
     ],
     "ncGTW": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "nearBynding": [
@@ -3511,9 +3494,7 @@
         "recount",
         "rtracklayer"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB",
         "topGO"
@@ -3542,7 +3523,6 @@
         "rtracklayer"
     ],
     "pwOmics": [],
-    "QFeatures": [],
     "qmtools": [],
     "qpgraph": [
         "GenomicAlignments",
@@ -3856,7 +3836,6 @@
     ],
     "Risa": [
         "MsExperiment",
-        "QFeatures",
         "xcms"
     ],
     "RITAN": [
@@ -4155,9 +4134,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "DropletUtils",
         "GenomicAlignments",
@@ -5024,8 +5001,7 @@
         "rtracklayer"
     ],
     "xcms": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "XDE": [
         "GeneMeta",
