@@ -224,9 +224,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "bioCancer": [
-        "ReactomePA"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [
         "GenomicFeatures",
         "rtracklayer"
@@ -1525,7 +1523,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "Pigengene",
-        "ReactomePA",
         "bumphunter",
         "minfi",
         "rtracklayer"
@@ -2186,9 +2183,7 @@
     "PhyloProfile": [
         "OmaDB"
     ],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [
         "BSgenome",
         "GenomicFeatures",
@@ -2391,7 +2386,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "ReactomePA": [],
     "recount": [
         "BSgenome",
         "GenomicFeatures",
@@ -2763,9 +2757,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTGIF": [],
     "scTreeViz": [
         "GenomicFeatures",
