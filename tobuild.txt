@@ -1,5 +1,0 @@
-scater
-EnrichmentBrowser
-Voyager
-FEAST
-singscore
