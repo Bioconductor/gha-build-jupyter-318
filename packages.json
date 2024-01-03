@@ -3289,7 +3289,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
