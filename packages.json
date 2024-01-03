@@ -1763,13 +1763,10 @@
         "xcms"
     ],
     "iSEEde": [],
-    "iSEEhex": [],
     "iSEEhub": [],
     "iSEEindex": [],
     "iSEEpathways": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "ISLET": [],
     "IsoformSwitchAnalyzeR": [
         "BSgenome",
