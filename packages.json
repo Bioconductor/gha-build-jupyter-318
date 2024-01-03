@@ -3234,7 +3234,6 @@
     "scClassify": [
         "Cepo"
     ],
-    "scDataviz": [],
     "scDblFinder": [
         "rtracklayer",
         "scater",
