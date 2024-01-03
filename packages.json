@@ -1609,7 +1609,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
