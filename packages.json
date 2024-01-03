@@ -953,7 +953,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
