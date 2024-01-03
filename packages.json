@@ -3289,7 +3289,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
