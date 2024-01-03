@@ -2888,7 +2888,6 @@
         "DESeq2"
     ],
     "HumanTranscriptomeCompendium": [],
-    "iasva": [],
     "icetea": [
         "BSgenome",
         "DESeq2",
