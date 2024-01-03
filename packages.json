@@ -3016,7 +3016,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "PathoStat": [],
     "pcaExplorer": [
         "Category",
         "GOstats"
