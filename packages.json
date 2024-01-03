@@ -1785,8 +1785,7 @@
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "pRoloc": [
         "MLInterfaces"
@@ -2289,7 +2288,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "BSgenome",
         "GenomicFeatures",
