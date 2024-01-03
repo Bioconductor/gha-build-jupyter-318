@@ -659,7 +659,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "decontX": [],
     "deconvR": [
         "GenomicFeatures",
         "bumphunter",
