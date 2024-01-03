@@ -1632,7 +1632,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "MsExperiment",
