@@ -107,7 +107,6 @@
         "VariantAnnotation",
         "alabaster.mae",
         "alabaster.sce",
-        "alabaster.se",
         "alabaster.spatial",
         "alabaster.vcf",
         "biomaRt",
@@ -117,26 +116,20 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "alabaster.mae": [
-        "alabaster.se"
-    ],
+    "alabaster.mae": [],
     "alabaster.sce": [
-        "SingleCellExperiment",
-        "alabaster.se"
+        "SingleCellExperiment"
     ],
-    "alabaster.se": [],
     "alabaster.spatial": [
         "SingleCellExperiment",
         "SpatialExperiment",
-        "alabaster.sce",
-        "alabaster.se"
+        "alabaster.sce"
     ],
     "alabaster.vcf": [
         "BSgenome",
         "GenomicAlignments",
         "GenomicFeatures",
         "VariantAnnotation",
-        "alabaster.se",
         "biomaRt",
         "rtracklayer"
     ],
