@@ -1759,7 +1759,6 @@
     "MEDME": [],
     "memes": [],
     "meshes": [],
-    "meshr": [],
     "MetaboAnnotation": [],
     "metabomxtr": [],
     "MetaboSignal": [
@@ -2811,8 +2810,7 @@
         "rtracklayer"
     ],
     "scTensor": [
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTGIF": [],
     "scTreeViz": [
