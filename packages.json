@@ -3228,7 +3228,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [
         "scater",
         "scran"
@@ -3553,9 +3552,7 @@
         "rtracklayer"
     ],
     "velociraptor": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "VplotR": [],
     "vtpnet": [
         "BSgenome",
