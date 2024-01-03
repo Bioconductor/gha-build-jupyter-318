@@ -1658,7 +1658,6 @@
     "multiGSEA": [],
     "MultiRNAflow": [],
     "multiWGCNA": [],
-    "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
         "GenomicFeatures",
