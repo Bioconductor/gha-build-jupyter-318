@@ -1648,7 +1648,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "interactiveDisplay": [],
     "InterCellar": [],
     "IntEREst": [
         "BSgenome",
