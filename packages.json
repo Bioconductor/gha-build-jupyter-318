@@ -84,7 +84,6 @@
         "ShortRead"
     ],
     "ANCOMBC": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
@@ -249,7 +248,6 @@
     "benchdamic": [
         "ANCOMBC",
         "Maaslin2",
-        "TreeSummarizedExperiment",
         "mia",
         "scater",
         "zinbwave"
@@ -478,9 +476,7 @@
         "cBioPortalData",
         "rtracklayer"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1311,9 +1307,7 @@
         "OrganismDbi",
         "rtracklayer"
     ],
-    "ExperimentSubset": [
-        "TreeSummarizedExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "BSgenome",
         "GenomicFeatures",
@@ -2109,21 +2103,16 @@
         "rtracklayer"
     ],
     "mia": [
-        "TreeSummarizedExperiment",
         "scater"
     ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "TreeSummarizedExperiment",
         "mia",
         "scater"
     ],
@@ -2131,9 +2120,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "microSTASIS": [
-        "TreeSummarizedExperiment"
-    ],
+    "microSTASIS": [],
     "MICSQTL": [],
     "midasHLA": [],
     "mimager": [
@@ -3652,7 +3639,6 @@
         "FlowSOM",
         "diffcyt"
     ],
-    "TreeSummarizedExperiment": [],
     "TRESS": [
         "GenomicFeatures",
         "rtracklayer"
