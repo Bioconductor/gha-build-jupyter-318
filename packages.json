@@ -2857,7 +2857,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "SimBindProfiles": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "GSVA",
