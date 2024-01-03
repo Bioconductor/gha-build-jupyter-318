@@ -868,7 +868,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "CTdata": [],
     "CTSV": [],
     "cummeRbund": [
         "BSgenome",
