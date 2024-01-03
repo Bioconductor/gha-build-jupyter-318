@@ -2420,7 +2420,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "Nebulosa": [],
     "netSmooth": [
         "clusterExperiment",
         "scater",
