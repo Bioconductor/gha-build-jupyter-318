@@ -187,7 +187,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "apComplex": [],
     "APL": [
         "topGO"
     ],
