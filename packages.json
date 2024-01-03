@@ -1511,7 +1511,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggspavis": [],
     "girafe": [
         "ShortRead"
     ],
