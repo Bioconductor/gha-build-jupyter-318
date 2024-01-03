@@ -400,9 +400,7 @@
     "CAMERA": [
         "xcms"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -2293,7 +2291,6 @@
         "monocle"
     ],
     "phenomis": [],
-    "phenoTest": [],
     "PhenStat": [],
     "PhosR": [],
     "PhyloProfile": [
