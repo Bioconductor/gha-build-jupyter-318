@@ -5802,7 +5802,7 @@ packaged installation of ‘clusterProfiler’ as ‘clusterProfiler_4.10.0_R_x8
 * DONE (clusterProfiler)
 
 The downloaded source packages are in
-	‘/tmp/RtmphfTE4E/downloaded_packages’
+	‘/tmp/RtmpP4FWvG/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -5814,6 +5814,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	5m36.110s
-user	5m10.123s
-sys	1m6.985s
+real	5m40.323s
+user	5m14.661s
+sys	1m6.263s
