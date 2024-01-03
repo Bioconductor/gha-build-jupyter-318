@@ -1809,7 +1809,6 @@
     "pogos": [
         "ontoProc"
     ],
-    "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH"
