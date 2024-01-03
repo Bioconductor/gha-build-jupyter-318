@@ -1,11 +1,9 @@
 {
     "a4": [
         "a4Base",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "ACE": [
@@ -136,7 +134,6 @@
     "AneuFinder": [
         "GenomicAlignments"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -5301,9 +5298,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "wiggleplotr": [
         "GenomicAlignments",
         "rtracklayer"
