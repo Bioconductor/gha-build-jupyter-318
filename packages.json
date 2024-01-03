@@ -1253,7 +1253,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCHMM": [
         "GenomicAlignments",
         "rtracklayer"
@@ -4060,9 +4059,7 @@
     "SpectralTAD": [
         "HiCcompare"
     ],
-    "SPIAT": [
-        "dittoSeq"
-    ],
+    "SPIAT": [],
     "spicyR": [
         "ClassifyR"
     ],
