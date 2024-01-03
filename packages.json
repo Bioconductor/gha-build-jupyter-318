@@ -240,7 +240,6 @@
         "MSstats"
     ],
     "ASICS": [
-        "MultiDataSet",
         "ropls"
     ],
     "ASpli": [
@@ -521,7 +520,6 @@
         "pathview"
     ],
     "biosigner": [
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -3053,7 +3051,6 @@
     ],
     "LinkHD": [],
     "lipidr": [
-        "MultiDataSet",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -3225,7 +3222,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
-        "MultiDataSet",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -3735,7 +3731,6 @@
         "SingleCellExperiment"
     ],
     "MultiBaC": [
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -3752,7 +3747,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationHub",
         "graphite"
@@ -3967,7 +3961,6 @@
     "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
-        "MultiDataSet",
         "annotate",
         "genefilter",
         "omicade4",
@@ -4148,7 +4141,6 @@
         "monocle"
     ],
     "phenomis": [
-        "MultiDataSet",
         "ropls"
     ],
     "phenopath": [],
@@ -4912,9 +4904,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ropls": [
-        "MultiDataSet"
-    ],
+    "ropls": [],
     "Rqc": [
         "BSgenome",
         "GenomicAlignments",
@@ -4928,7 +4918,6 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiDataSet",
         "ropls"
     ],
     "rrvgo": [
