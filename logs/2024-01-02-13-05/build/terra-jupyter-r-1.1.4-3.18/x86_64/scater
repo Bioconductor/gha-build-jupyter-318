@@ -2524,7 +2524,7 @@ packaged installation of ‘scater’ as ‘scater_1.30.1_R_x86_64-pc-linux-gnu.
 * DONE (scater)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPGTMce/downloaded_packages’
+	‘/tmp/RtmpWQK4Qb/downloaded_packages’
 Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'cluster', 'cowplot', 'cpp11', 'crosstalk', 'curl', 'data.table', 'DBI',
   'deldir', 'desc', 'dotCall64', 'dplyr', 'dqrng', 'DT', 'edgeR', 'fansi',
@@ -2536,6 +2536,6 @@ Old packages: 'AnVIL', 'BiocNeighbors', 'brew', 'brio', 'bslib', 'cli',
   'shiny', 'sp', 'SparseArray', 'spatstat.random', 'stringi', 'testthat',
   'tinytex', 'vctrs', 'vroom', 'XML', 'xml2', 'yaml'
 
-real	1m46.376s
-user	1m34.934s
-sys	0m31.785s
+real	1m47.706s
+user	1m36.851s
+sys	0m32.144s
