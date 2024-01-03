@@ -1131,7 +1131,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CoreGx": [],
     "corral": [],
     "coseq": [
         "HTSFilter"
@@ -1988,7 +1987,6 @@
         "rtracklayer"
     ],
     "gDR": [
-        "CoreGx",
         "PharmacoGx",
         "gDRcore",
         "gDRimport",
@@ -1998,7 +1996,6 @@
         "gDRutils"
     ],
     "gDRimport": [
-        "CoreGx",
         "PharmacoGx",
         "gDRutils"
     ],
@@ -3520,7 +3517,6 @@
         "topGO"
     ],
     "PDATK": [
-        "CoreGx",
         "genefu"
     ],
     "pdInfoBuilder": [
@@ -3540,9 +3536,7 @@
         "rtracklayer"
     ],
     "phantasus": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny",
         "monocle"
@@ -3823,9 +3817,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "raer": [
         "BSgenome",
         "GenomicAlignments",
@@ -5052,9 +5044,7 @@
         "genefilter"
     ],
     "topGO": [],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [
         "BSgenome",
@@ -5332,7 +5322,6 @@
         "genefilter"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
