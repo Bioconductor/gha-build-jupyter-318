@@ -278,7 +278,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "AssessORF": [],
     "ASSIGN": [
         "annotate",
         "genefilter",
