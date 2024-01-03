@@ -4793,7 +4793,6 @@
     ],
     "topGO": [],
     "ToxicoGx": [],
-    "tracktables": [],
     "trackViewer": [
         "BSgenome",
         "GenomicAlignments",
