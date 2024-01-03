@@ -1650,7 +1650,6 @@
     "HiTC": [
         "rtracklayer"
     ],
-    "hpar": [],
     "HTSeqGenie": [
         "BSgenome",
         "GenomicFeatures",
@@ -1948,7 +1947,6 @@
         "GenomicFeatures",
         "MWASTools",
         "ensembldb",
-        "hpar",
         "mygene",
         "rtracklayer"
     ],
