@@ -2702,7 +2702,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "MesKit": [],
     "MetaboAnnotation": [
         "QFeatures"
     ],
