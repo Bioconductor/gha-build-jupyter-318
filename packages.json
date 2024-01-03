@@ -1734,7 +1734,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fenr": [],
     "ffpe": [
         "GenomicAlignments",
         "GenomicFeatures",
